@@ -11,7 +11,7 @@
 
 ### 量子信息科学
 
-- [量子力学形式理论](./notes/quantum-mechanics-formalism.pdf)
+- [量子力学形式理论](./notes/qis/quantum-mechanics-formalism.pdf)
 - [量子光学(计划中)](./notes/qis/quantum-optics.md)  
 - [量子计算(计划中)](./notes/qis/quantum-computation.md)
 - [量子精密测量(计划中)](./notes/qis/quantum-precision-measurement.md)
