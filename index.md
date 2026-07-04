@@ -12,18 +12,18 @@
 ### 量子信息科学
 
 - [量子力学形式理论](./notes/qis/quantum-mechanics-formalism.pdf)
-- [量子光学(计划中)](./notes/qis/quantum-optics.md)  
+<!-- - [量子光学(计划中)](./notes/qis/quantum-optics.md)  
 - [量子计算(计划中)](./notes/qis/quantum-computation.md)
 - [量子精密测量(计划中)](./notes/qis/quantum-precision-measurement.md)
 - [量子信息理论(计划中)](./notes/qis/quantum-information-theory.md)
-- [量子热力学(计划中)](./notes/qis/quantum-thermodynamics.md)
+- [量子热力学(计划中)](./notes/qis/quantum-thermodynamics.md) -->
 
 ### 人工智能基础
-
+<!-- 
 - [数学基础(计划中)](./notes/ai/math-foundations.md)
 - [数据挖掘(计划中)](./notes/ai/data-mining.md)
 - [深度学习(计划中)](./notes/ai/deep-learning.md)
-- [强化学习(计划中)](./notes/ai/reinforcement-learning.md)
+- [强化学习(计划中)](./notes/ai/reinforcement-learning.md) -->
 
 ---
 
