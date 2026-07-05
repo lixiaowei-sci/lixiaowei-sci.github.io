@@ -1,5 +1,3 @@
-# 量子信息科学与人工智能基础知识库
-
 欢迎来到我的个人主页。这里主要整理两条学习与写作主线（暂时）：
 
 - [量子信息科学](###量子信息科学)：从量子力学形式理论出发，逐步进入量子光学、量子计算、量子精密测量、量子信息理论与量子热力学。
@@ -7,9 +5,9 @@
 
 ---
 
-## 快速导航
+# 快速导航
 
-### 量子信息科学
+## 量子信息科学
 
 - [量子力学形式理论](./notes/qis/quantum-mechanics-formalism.pdf)
 
@@ -19,7 +17,7 @@
 - [量子信息理论(计划中)](./notes/qis/quantum-information-theory.md)
 - [量子热力学(计划中)](./notes/qis/quantum-thermodynamics.md) -->
 
-### 人工智能基础
+## 人工智能基础
 <!-- 
 - [数学基础(计划中)](./notes/ai/math-foundations.md)
 - [数据挖掘(计划中)](./notes/ai/data-mining.md)
